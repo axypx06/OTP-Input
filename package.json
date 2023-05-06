@@ -2,7 +2,6 @@
   "name": "otpverify",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{axypx06}.github.io/{OTP-Input}",
   "dependencies": {
     "react": "^18.2.0",
     "bootstrap": "5.1.2",
